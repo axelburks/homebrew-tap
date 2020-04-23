@@ -6,5 +6,5 @@ This the Homebrew tap is for the [appstoreconnect-cli](https://github.com/ittybi
 
 ```
 brew tap ittybittyapps/appstoreconnect-cli
-brew install appstoreconnect-cli
+brew install --HEAD appstoreconnect-cli
 ```
