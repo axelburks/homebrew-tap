@@ -1,10 +1,10 @@
-# appstoreconnect-cli Homebrew Tap
+# Homebrew Tap
 
-This the Homebrew tap is for the [appstoreconnect-cli](https://github.com/ittybittyapps/appstoreconnect-cli).
+This the Homebrew tap is for axelburks
 
 ## How do I install `appstoreconnect-cli` using this formulae?
 
 ```
-brew tap ittybittyapps/appstoreconnect-cli
+brew tap axelburks/tap
 brew install --HEAD appstoreconnect-cli
 ```
