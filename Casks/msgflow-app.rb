@@ -1,8 +1,8 @@
 cask "msgflow-app" do
-  version "0.3.3"
-  sha256 "80f8981b974764f3a4c5dd2a2a519bec4045c4b53cb2ba34a7ec635e554dcd95"
+  version "0.4.0"
+  sha256 "d5d0abc9d40cd5ea8ed4182cccf183c778b6f8a86183e3602830d6ca5c3ba615"
 
-  url "https://github.com/axelburks/msgflow/releases/download/v0.3.3/msgflow-app-0.3.3-macos-arm64.zip"
+  url "https://github.com/axelburks/msgflow/releases/download/v0.4.0/msgflow-app-0.4.0-macos-arm64.zip"
   name "msgflow"
   desc "macOS message forwarding menu bar app"
   homepage "https://github.com/axelburks/msgflow"
