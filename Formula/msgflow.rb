@@ -1,9 +1,9 @@
 class Msgflow < Formula
   desc "macOS message forwarding background service"
   homepage "https://github.com/axelburks/msgflow"
-  url "https://github.com/axelburks/msgflow/releases/download/v0.5.0/msgflow-0.5.0-macos-arm64.tar.gz"
-  sha256 "70866bbc91247abb4581b2586edb9a8307fc889bbb6ff31bc7f4b614ad2b2b0c"
-  version "0.5.0"
+  url "https://github.com/axelburks/msgflow/releases/download/v0.6.0/msgflow-0.6.0-macos-arm64.tar.gz"
+  sha256 "56c585e63653fb291b78841c3f1b6e7e30172775f7d0d43f740d5ca3225725ef"
+  version "0.6.0"
 
   depends_on macos: :ventura
 
